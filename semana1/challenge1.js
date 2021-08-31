@@ -1,5 +1,5 @@
 const reverseString = (str) => {
-    //Implementación
+    //Implementación semana 2
 }
 
 module.exports = {
