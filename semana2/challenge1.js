@@ -1,4 +1,5 @@
 function twoSums(numbs, target) {
+<<<<<<< HEAD
     //Implementación
     //console.log(numbs);
     for (let i = 0; i < numbs.length; i++) {
@@ -11,6 +12,9 @@ function twoSums(numbs, target) {
             }
         }
     }
+=======
+    
+>>>>>>> 918ad26f54a36b7283974efc3f1b3248c5669be2
 }
 
 module.exports = twoSums;

@@ -1,5 +1,6 @@
 function divisibleByLeft(n) {
     //Implementación
+<<<<<<< HEAD
     const numbers = n.toString().split("");
     let arrayConfirmationDiv = [false];
     for (let i = 0; i <  numbers.length; i++) {;
@@ -13,6 +14,9 @@ function divisibleByLeft(n) {
         }
     }
     return arrayConfirmationDiv;
+=======
+    return 0;
+>>>>>>> 918ad26f54a36b7283974efc3f1b3248c5669be2
 }
 
 module.exports = divisibleByLeft;
