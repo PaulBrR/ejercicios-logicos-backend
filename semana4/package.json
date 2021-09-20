@@ -13,6 +13,7 @@
     "author": "Academlo",
     "license": "ISC",
     "dependencies": {
-        "jest": "^27.0.6"
+        "jest": "^27.0.6",
+        "lodash": "^4.17.21"
     }
 }
